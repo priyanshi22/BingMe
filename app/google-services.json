@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703810019332",
+    "firebase_url": "https://bingme3-9f00c.firebaseio.com",
+    "project_id": "bingme3-9f00c",
+    "storage_bucket": "bingme3-9f00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703810019332:android:18a2146180d5a77b",
+        "android_client_info": {
+          "package_name": "bingme.com.bingme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703810019332-80tffolbsehctc7igo0h65ag145r9sgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bingme.com.bingme",
+            "certificate_hash": "0be5c292ed8962bb8f25573ea10d8e9034470ecc"
+          }
+        },
+        {
+          "client_id": "703810019332-24akkhnqbik8s2ifop0fuqf2dn64vgm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY5z4ei-69i3_0x441KPlkHP_EVbH-n8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703810019332-24akkhnqbik8s2ifop0fuqf2dn64vgm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
